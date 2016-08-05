@@ -83,7 +83,7 @@
 
 
 	// module
-	exports.push([module.id, "body {\n  background-color: rgb(168, 127, 176);\n}\n", ""]);
+	exports.push([module.id, "body {\n  background-color: rgb(168, 127, 176);\n}\n\nh1  {\n  font-size: 15rem;\n}\n", ""]);
 
 	// exports
 
